@@ -12,6 +12,6 @@ public class hhsController {
     @RequestMapping("/hello")
     @ResponseBody
     public String hello(){
-        return "hello";
+        return "branch deneme 1";
     }
 }
